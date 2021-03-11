@@ -1,0 +1,755 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.804; Version 2004; 64bit' Language: 'en' Physical Memory: 16111 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/samle/OneDrive/Documents/GitHub/StairGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63142
+Successfully changed project path to: C:/Users/samle/OneDrive/Documents/GitHub/StairGame
+C:/Users/samle/OneDrive/Documents/GitHub/StairGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/samle/OneDrive/Documents/GitHub/StairGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3964 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001669 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1521 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.3 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 1972.
+Total: 2.477000 ms (FindLiveObjects: 0.171200 ms CreateObjectMapping: 0.064900 ms MarkObjects: 2.074500 ms  DeleteObjects: 0.165300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_05_C.mat
+  artifactKey: Guid(2016fbaa1e945cb4f807abf0a56b602e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_05_C.mat using Guid(2016fbaa1e945cb4f807abf0a56b602e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34fbf7255c83fa918dc51e2c7fc68604') in 0.097944 seconds
+  Import took 0.100318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_04_A.mat
+  artifactKey: Guid(a9a5d9bee1e50b64c805a29f9d393e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_04_A.mat using Guid(a9a5d9bee1e50b64c805a29f9d393e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e7e3d278434e20f1ca3bb2b24ffbad4') in 0.018457 seconds
+  Import took 0.020977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafc943c64d19888e1450ff75b3539da') in 0.085937 seconds
+  Import took 0.088158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat
+  artifactKey: Guid(9ad269c99dcf42b7aedefd83dd5a7b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat using Guid(9ad269c99dcf42b7aedefd83dd5a7b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b576fc10f05704e5638cb18498cc639') in 0.033092 seconds
+  Import took 0.035257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+  artifactKey: Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf using Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278aa9cce417000d7c69fdca4a732aa7') in 0.029929 seconds
+  Import took 0.032116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  artifactKey: Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf using Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b893a3beb0811da56452268e14a2474') in 0.013435 seconds
+  Import took 0.015794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters/Materials/PolygonCity_Texture_02_A.mat
+  artifactKey: Guid(4cc4dc52ec3b129429aeac68b836247c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters/Materials/PolygonCity_Texture_02_A.mat using Guid(4cc4dc52ec3b129429aeac68b836247c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77fd5a2c77a29e9bedf7740c23cafd3e') in 0.016504 seconds
+  Import took 0.018723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b34ac29a27cb11a2574fa8d6211931') in 0.035632 seconds
+  Import took 0.038497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf95ca6761cc54e2ef53295e1381971') in 0.018038 seconds
+  Import took 0.021016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Animation/Animations/Run.fbx
+  artifactKey: Guid(3063c37f786d2e448b0d1d9d11ee7891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animations/Run.fbx using Guid(3063c37f786d2e448b0d1d9d11ee7891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7395066ce77971f9eda80ca5a6e14a5c') in 0.581966 seconds
+  Import took 0.584598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c07b93f041c59bf82658c8a697559aae') in 0.089964 seconds
+  Import took 0.092125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_02_A.mat
+  artifactKey: Guid(9abd531dc805c984494c5ef16efaeff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_02_A.mat using Guid(9abd531dc805c984494c5ef16efaeff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7cf7f527d73c0dfab968b56db7848c') in 0.017965 seconds
+  Import took 0.020331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+  artifactKey: Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat using Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62ec08f4f1c576b51c1a950d9ebd959') in 0.088968 seconds
+  Import took 0.091245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+  artifactKey: Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat using Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b878387d5ebb1d773f5f0358ce32604') in 0.017006 seconds
+  Import took 0.019338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+  artifactKey: Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat using Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad87c512c98e00423a5c6cb0e37b713') in 0.014547 seconds
+  Import took 0.017320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_04_B.mat
+  artifactKey: Guid(572a863e6107f6041a5518e2ccb469fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_04_B.mat using Guid(572a863e6107f6041a5518e2ccb469fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d49ad638975d7c30f32e4919d62f2bf') in 0.017373 seconds
+  Import took 0.020201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+  artifactKey: Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset using Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f68e134c53f4d55c4bf316d6b637f7b') in 0.036448 seconds
+  Import took 0.039076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e93136860a214abc0faa3304291c7e') in 0.037993 seconds
+  Import took 0.040521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_C.mat
+  artifactKey: Guid(b3498282888feac4893e6ce9f1c6a4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_C.mat using Guid(b3498282888feac4893e6ce9f1c6a4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e19d2fdaba951219472947657681d56') in 0.016917 seconds
+  Import took 0.019784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat
+  artifactKey: Guid(e6b276ec991f467aa14ef1f3cc665993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat using Guid(e6b276ec991f467aa14ef1f3cc665993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '586bcf870b93fe6407507f55963ca935') in 0.133383 seconds
+  Import took 0.135913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+  artifactKey: Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf using Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00852dfa51d3eb7c658ee80df18ebeb5') in 0.012496 seconds
+  Import took 0.014887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b8d8bd0cd2c8dd0f76d64a8e97a90f8') in 0.020426 seconds
+  Import took 0.023472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+  artifactKey: Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat using Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92626d14812e7912cee09aeefcb05d2f') in 0.016279 seconds
+  Import took 0.018797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ccb30f3fc853200993db338d5196c71') in 0.034184 seconds
+  Import took 0.037128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_05_B.mat
+  artifactKey: Guid(031426d90200adb418b20a93f1946c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_05_B.mat using Guid(031426d90200adb418b20a93f1946c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b8c7e3b01c93cc2a365cce993d5862') in 0.019636 seconds
+  Import took 0.022631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_02_C.mat
+  artifactKey: Guid(91e2878374a4a184aa285a72a4f938c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_02_C.mat using Guid(91e2878374a4a184aa285a72a4f938c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48dfb83abe30dff7522026ac0585c7d1') in 0.018547 seconds
+  Import took 0.021174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_02_B.mat
+  artifactKey: Guid(94c294e096c783f4c8d934086b6ad063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_02_B.mat using Guid(94c294e096c783f4c8d934086b6ad063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d699c6909bc080fe4ea42bff9082a4') in 0.019492 seconds
+  Import took 0.022225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_03_C.mat
+  artifactKey: Guid(4add5cf79c9f7c948b1335817870d812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_03_C.mat using Guid(4add5cf79c9f7c948b1335817870d812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c45546ad12eeae982d1d7f2ee6eef6') in 0.017439 seconds
+  Import took 0.019796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
+  artifactKey: Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat using Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb454077055829a691947966af3b4880') in 0.030408 seconds
+  Import took 0.033055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_A.mat
+  artifactKey: Guid(2516edcba6fec964787b5492b55edbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_A.mat using Guid(2516edcba6fec964787b5492b55edbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6c47fd8298c5d83c3a889afbe3f524') in 0.018730 seconds
+  Import took 0.022020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+  artifactKey: Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat using Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70048a741149461ff8b1dc47e42374a3') in 0.012447 seconds
+  Import took 0.015104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+  artifactKey: Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat using Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2158a03297f4922ab53c00a15683d030') in 0.117271 seconds
+  Import took 0.119655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_B.mat
+  artifactKey: Guid(aa02261243473d04fb2154b27a5f1316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_B.mat using Guid(aa02261243473d04fb2154b27a5f1316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77af8980712d3f8ce01e04eca34aebf7') in 0.014883 seconds
+  Import took 0.017634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat
+  artifactKey: Guid(e6b9b44320f4448d9d5e0ee634259966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat using Guid(e6b9b44320f4448d9d5e0ee634259966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b23c6c6dc1239b806f4636d2fa2f620') in 0.165573 seconds
+  Import took 0.168460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+  artifactKey: Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat using Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0400669787c3fb92cec360b005a54a6e') in 0.011362 seconds
+  Import took 0.013577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+  artifactKey: Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF using Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be4b76dc8bc864ba76a160cdb79fc32') in 0.018659 seconds
+  Import took 0.021058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5ea21f02903d051e5160a7fcba0f80') in 0.016759 seconds
+  Import took 0.019859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
+  artifactKey: Guid(aadd5a709a48466c887296bb5b1b8110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat using Guid(aadd5a709a48466c887296bb5b1b8110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ba17a0ca931588cdf197211821b9ce') in 0.107302 seconds
+  Import took 0.109471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+  artifactKey: Guid(5dd49b3eacc540408c98eee0de38e0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf using Guid(5dd49b3eacc540408c98eee0de38e0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b07f9786a9c95a809b2ea2fbdb3c2e') in 0.012498 seconds
+  Import took 0.014765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+  artifactKey: Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc5453e0c60762e3b7d5475c9b6aa8d') in 0.296511 seconds
+  Import took 0.299179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+  artifactKey: Guid(c719e38f25a9480abd2480ab621a2949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat using Guid(c719e38f25a9480abd2480ab621a2949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9dcb8fde4bd74ec9f9e7bb7e41fe09') in 0.016394 seconds
+  Import took 0.018687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Animation/Animations/Idle.fbx
+  artifactKey: Guid(b23dbd8bf6d7d9840b4aabefacf823b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animations/Idle.fbx using Guid(b23dbd8bf6d7d9840b4aabefacf823b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b0d4b7f9b55f4af6843c621cae1285') in 0.066714 seconds
+  Import took 0.069546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_03_B.mat
+  artifactKey: Guid(f8e0063bde3c205408fe7ece69f2f617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_03_B.mat using Guid(f8e0063bde3c205408fe7ece69f2f617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584346367119bfd68fd5d04029af551c') in 0.025709 seconds
+  Import took 0.028046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat
+  artifactKey: Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat using Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17518c0edddc00b66b0a1a9a1048b1f') in 0.127620 seconds
+  Import took 0.129999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae968fa65aff66d3169a682ef19110d1') in 0.028125 seconds
+  Import took 0.030481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_04_C.mat
+  artifactKey: Guid(6ee0d636dbe1a5f4fba788b544591fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_04_C.mat using Guid(6ee0d636dbe1a5f4fba788b544591fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96db7e09442ebc7c67ed3e4b080ecde6') in 0.017073 seconds
+  Import took 0.019401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_05_A.mat
+  artifactKey: Guid(b59ff103438972749bf9741e03bc8fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_05_A.mat using Guid(b59ff103438972749bf9741e03bc8fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ba39580b8405249635db9b446040f2') in 0.018277 seconds
+  Import took 0.020539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_03_A.mat
+  artifactKey: Guid(4925a1a1bf1eff44696ea3c820cb5cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_03_A.mat using Guid(4925a1a1bf1eff44696ea3c820cb5cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5282fb26a812d6fa8de4f403fa6b143c') in 0.019383 seconds
+  Import took 0.021919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
+  artifactKey: Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat using Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a76a9c7dfc8e93ec8e012ce3bf81cd') in 0.032001 seconds
+  Import took 0.034307 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1474 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.2 MB.
+System memory in use after: 100.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2022.
+Total: 2.038200 ms (FindLiveObjects: 0.208500 ms CreateObjectMapping: 0.055300 ms MarkObjects: 1.704500 ms  DeleteObjects: 0.068900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.940558 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials
+  artifactKey: Guid(07ca8f5923eb43a4e926bcb19fcd332a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials using Guid(07ca8f5923eb43a4e926bcb19fcd332a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701e84f3b85333ab62116dee46c8fd18') in 0.008083 seconds
+  Import took 0.010874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.640800 seconds.
+  path: Assets/PolygonFantasyCharacters/Textures
+  artifactKey: Guid(39cb5a7a22e70ca4395c2ece7e188715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Textures using Guid(39cb5a7a22e70ca4395c2ece7e188715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9318403fb42b3e1f3cf3af5e056ab202') in 0.007861 seconds
+  Import took 0.011012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/PolygonFantasyCharacters/Textures
+  artifactKey: Guid(39cb5a7a22e70ca4395c2ece7e188715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Textures using Guid(39cb5a7a22e70ca4395c2ece7e188715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9318403fb42b3e1f3cf3af5e056ab202') in 0.002416 seconds
+  Import took 0.004613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.954538 seconds.
+  path: Assets/PolygonFantasyCharacters/Models
+  artifactKey: Guid(aa53509dd2d8e014baaf0b25698cc1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models using Guid(aa53509dd2d8e014baaf0b25698cc1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62493690bc3019d39d90bc44018c9fd8') in 0.008295 seconds
+  Import took 0.011284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/PolygonFantasyCharacters/Models
+  artifactKey: Guid(aa53509dd2d8e014baaf0b25698cc1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models using Guid(aa53509dd2d8e014baaf0b25698cc1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62493690bc3019d39d90bc44018c9fd8') in 0.003660 seconds
+  Import took 0.006881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.771535 seconds.
+  path: Assets/PolygonFantasyCharacters/Demo
+  artifactKey: Guid(6c16b90c4374fa84fbe378e72ab20bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Demo using Guid(6c16b90c4374fa84fbe378e72ab20bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b62ea32f2b6da7336105e0de7b5458') in 0.007625 seconds
+  Import took 0.011229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/PolygonFantasyCharacters/Demo
+  artifactKey: Guid(6c16b90c4374fa84fbe378e72ab20bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Demo using Guid(6c16b90c4374fa84fbe378e72ab20bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b62ea32f2b6da7336105e0de7b5458') in 0.002453 seconds
+  Import took 0.004988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.379824 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/SM_Prop_Broom_01.fbx
+  artifactKey: Guid(79fd667e8c9d7a04fa7355980b624e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/SM_Prop_Broom_01.fbx using Guid(79fd667e8c9d7a04fa7355980b624e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c20c5d531cfc6976141de5a3d3643e4') in 0.092650 seconds
+  Import took 0.094934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.988652 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/SM_Prop_Crystal_Ball_01.fbx
+  artifactKey: Guid(46bd55381b06ace4ebceda307f6e2890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/SM_Prop_Crystal_Ball_01.fbx using Guid(46bd55381b06ace4ebceda307f6e2890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea030118b5ae3f29d49f048a4b8662a4') in 0.024336 seconds
+  Import took 0.026680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001764 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/SM_Prop_Crystal_Ball_01.fbx
+  artifactKey: Guid(46bd55381b06ace4ebceda307f6e2890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/SM_Prop_Crystal_Ball_01.fbx using Guid(46bd55381b06ace4ebceda307f6e2890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea030118b5ae3f29d49f048a4b8662a4') in 0.037362 seconds
+  Import took 0.039800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.235299 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Druid_01.prefab
+  artifactKey: Guid(f7e586317327fe240bef5a82944f49c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Druid_01.prefab using Guid(f7e586317327fe240bef5a82944f49c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d20a001953cbfceaff39cb199d35d2') in 0.051093 seconds
+  Import took 0.054390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.035598 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Gypsy_01.prefab
+  artifactKey: Guid(0a5c236a7b8473c4db6e870cfe814a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Gypsy_01.prefab using Guid(0a5c236a7b8473c4db6e870cfe814a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7829fb4477a79505118e2972e39e61') in 0.038571 seconds
+  Import took 0.042032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.001884 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Peasant_01.prefab
+  artifactKey: Guid(66ec70d7de4f4c644a7ace1f5f0a2a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Peasant_01.prefab using Guid(66ec70d7de4f4c644a7ace1f5f0a2a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d48038e12b685c57dbdc68a7db0f61c') in 0.029259 seconds
+  Import took 0.032217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.087545 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Vials_01.prefab
+  artifactKey: Guid(7f285613e2a51df40a71af5d91b8e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Vials_01.prefab using Guid(7f285613e2a51df40a71af5d91b8e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64706737d7889a3b38e18481463a3561') in 0.008515 seconds
+  Import took 0.010872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.833227 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters
+  artifactKey: Guid(3e0e8d55fc688f04b95d4bc16bd766f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters using Guid(3e0e8d55fc688f04b95d4bc16bd766f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0408fed37c37b4b4559ebe77417a19f') in 0.007508 seconds
+  Import took 0.010599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000722 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters
+  artifactKey: Guid(3e0e8d55fc688f04b95d4bc16bd766f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters using Guid(3e0e8d55fc688f04b95d4bc16bd766f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0408fed37c37b4b4559ebe77417a19f') in 0.003438 seconds
+  Import took 0.006142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.151545 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Female_Druid.prefab
+  artifactKey: Guid(180a5d9ad208141468642642ab23e0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Female_Druid.prefab using Guid(180a5d9ad208141468642642ab23e0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3920a4083be9ed73b64e896e668ee46b') in 0.033369 seconds
+  Import took 0.036766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.381743 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Female_Gypsy.prefab
+  artifactKey: Guid(3ca965f160a201a43b9bed2c8721563b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Female_Gypsy.prefab using Guid(3ca965f160a201a43b9bed2c8721563b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb9a6959841c58034e849ed190e0a5c') in 0.035857 seconds
+  Import took 0.039759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.570997 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Male_Peasant_01.prefab
+  artifactKey: Guid(099791a23777ad8479106c27268a4fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Male_Peasant_01.prefab using Guid(099791a23777ad8479106c27268a4fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a680d5f05e47358c1fbab939cc1f56e') in 0.026507 seconds
+  Import took 0.030318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.433745 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Male_Wizard.prefab
+  artifactKey: Guid(252a512dd98766344a3e98962ce240d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Male_Wizard.prefab using Guid(252a512dd98766344a3e98962ce240d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd79cdd7906c39b2e314c4a4dca099ec') in 0.040929 seconds
+  Import took 0.043806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.939452 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters
+  artifactKey: Guid(95591d5f6700e3f46968a85ed2d3c0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters using Guid(95591d5f6700e3f46968a85ed2d3c0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14b9761c349663a55a1f3aa8b98eda2') in 0.003618 seconds
+  Import took 0.006734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.085773 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters/Characters.fbx
+  artifactKey: Guid(c9a34c70f1c0d00409f41fcfbb2a6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters/Characters.fbx using Guid(c9a34c70f1c0d00409f41fcfbb2a6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30d6f61d3616966b7b9480696cdfdf7') in 0.133286 seconds
+  Import took 0.136442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.016088 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs
+  artifactKey: Guid(93c74715787f3e748b35b453d359532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs using Guid(93c74715787f3e748b35b453d359532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8730aadfbdedf7ad45bc7577ccb694') in 0.011022 seconds
+  Import took 0.013908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.258034 seconds.
+  path: Assets/Animation/Animations
+  artifactKey: Guid(ec579d1d8ac0b2344b4041746e61aa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animations using Guid(ec579d1d8ac0b2344b4041746e61aa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454dc8caeea9d1baf6ea7002fc29b446') in 0.008410 seconds
+  Import took 0.011430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001092 seconds.
+  path: Assets/Animation/Animations
+  artifactKey: Guid(ec579d1d8ac0b2344b4041746e61aa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animations using Guid(ec579d1d8ac0b2344b4041746e61aa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454dc8caeea9d1baf6ea7002fc29b446') in 0.002580 seconds
+  Import took 0.004849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.251650 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(a9813649bb92ea24cb29a87f9e1e9084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(a9813649bb92ea24cb29a87f9e1e9084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d081a25532da266451ff6e72c03d8f') in 0.003242 seconds
+  Import took 0.006553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.056161 seconds.
+  path: Assets/Prefabs/Tests
+  artifactKey: Guid(7e31a6876d7e51b438aa2a8756c8de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tests using Guid(7e31a6876d7e51b438aa2a8756c8de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb554291d6cdc9f8c1a489c53d5c021') in 0.008250 seconds
+  Import took 0.011213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000921 seconds.
+  path: Assets/Prefabs/Tests
+  artifactKey: Guid(7e31a6876d7e51b438aa2a8756c8de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tests using Guid(7e31a6876d7e51b438aa2a8756c8de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb554291d6cdc9f8c1a489c53d5c021') in 0.003325 seconds
+  Import took 0.006033 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1473 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.1 MB.
+System memory in use after: 101.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2025.
+Total: 2.115400 ms (FindLiveObjects: 0.157500 ms CreateObjectMapping: 0.052200 ms MarkObjects: 1.826900 ms  DeleteObjects: 0.077700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
